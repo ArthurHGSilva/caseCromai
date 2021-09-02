@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    margin: 10px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.fundo{
+    background-image: linear-gradient(black, crimson);
+    width: 100vw;
+    height: 100vh;
+}
+
+.valores{
+    margin-left: 36%;
+    margin-top: 5%;
+}
+
+#resultado{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+}
+
+img{
+    margin-top: 2rem;
+    margin-left: 30rem;
+    width: 25rem;
+    height: 15rem;
+
+}
